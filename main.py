@@ -2,12 +2,12 @@ from datetime import datetime
 import requests
 
 NX_APP_ID = "a0aa03e1"
-NX_API_KEY = "7cdf7cd7963bcda7fee3d24395053b3a"
+NX_API_KEY = "XXXXXXXXXXX"
 NX_BASE_URL = "https://trackapi.nutritionix.com"
 EXERCISE_API = "/v2/natural/exercise"
 SHEETY_BASE_URL = "https://api.sheety.co"
 WORKOUT_TRACKER_API = "/8e7a7dc2a8849028d5c9c103dd334896/workoutTracker/workouts"
-SHEETY_API_KEY = "St3vAn0v1c"
+SHEETY_API_KEY = "XXXXXX"
 
 # * --------- ask user for the exercises they did ------------
 exercise_input = input("Which exercise did you complete?")
